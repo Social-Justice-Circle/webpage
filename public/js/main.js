@@ -2,10 +2,10 @@ const swiper = new Swiper('.swiper', {
   // Optional parameters
   loop: true,
   slidesPerView: 1,
-  /* autoplay: { 
+  autoplay: { 
     disableOnInteraction: false,
-    delay: 3000 
-  }, */
+    delay: 6000
+  },
   centeredSlides: true,
   // If we need pagination
   pagination: {
