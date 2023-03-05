@@ -1,7 +1,7 @@
 {
-  "name": "automated-blog",
+  "name": "webpage",
   "version": "1.0.0",
-  "description": "chat gpt based blog that automatcally generate blog posts",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dIwnsgml/Automated-blog.git"
+    "url": "git+https://github.com/Social-Justice-Circle/webpage.git"
   },
   "author": "dIwnsgml",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dIwnsgml/Automated-blog/issues"
+    "url": "https://github.com/Social-Justice-Circle/webpage/issues"
   },
-  "homepage": "https://github.com/dIwnsgml/Automated-blog#readme",
+  "homepage": "https://github.com/Social-Justice-Circle/webpage#readme",
   "dependencies": {
     "async": "^3.2.4",
     "axios": "^1.3.3",
@@ -37,5 +37,6 @@
     "promise-mysql": "^5.2.0",
     "react-scripts": "^5.0.1",
     "socket.io": "^4.5.4"
-  }
+  },
+  "devDependencies": {}
 }

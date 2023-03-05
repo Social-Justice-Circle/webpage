@@ -53,7 +53,7 @@ const categoryRouter=  require("./Router/category");
 const articleRouter = require('./Router/article');
 
 app.set('view engine', 'ejs');
-app.set('views', __dirname + '/views');
+app.set(__dirname + '/views');
 app.set('socketio', io);
 
 
